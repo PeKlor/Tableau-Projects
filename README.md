@@ -1,2 +1,2 @@
-# Tableau-profile
-This is my Tableau profile.
+# Tableau Projects
+Here are some of the most important projects-vizzes I have created with Tableau.
